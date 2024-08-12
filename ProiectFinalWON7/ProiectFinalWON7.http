@@ -1,0 +1,6 @@
+@ProiectFinalWON7_HostAddress = http://localhost:5126
+
+GET {{ProiectFinalWON7_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
